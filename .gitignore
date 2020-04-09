@@ -1,0 +1,6 @@
+dev/
+.vscode/
+.vs/
+*.exe
+*.zip
+*.log
